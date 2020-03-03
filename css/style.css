@@ -25,26 +25,35 @@
     background-repeat: no-repeat;
 }
 
-.btn-search {
+/* .btn-search {
     background-color: #ffd900;
     color: #343434;
     padding-right: 35px!important;
     padding-left: 35px!important;
-}
+} */
 
 .btn-search-1 {
     background-color: transparent;
-    border: 1px solid #ffd900;
+    /* border: 1px solid #ffd900; */
     color: #ffd900;
+    font-size: 14px;
     padding-right: 35px!important;
     padding-left: 35px!important;
     border-radius: 4px!important;
 }
 
+.pub-x1 a {
+    color: #ffd900;
+}
+
 .btn-search-1:hover {
     background-color: #ffd900;
     color: #fff!important;
-    
+}
+
+.inner-txt img{
+    max-width: 2%;
+    margin-top: -6px;
 }
 
 .bk-1 {
@@ -57,5 +66,87 @@
 
 .pub-x1 h2 {
     font-size: 18px!important;
+}
+
+.rl h2 {
+    font-size: 18px!important;
+    padding-top: 10px;
+    color: #343434;
+}
+
+.rl p {
+    font-size: 14px;
+    color: #788088;
+    padding-top: 7px;
+    margin-bottom: 0px!important;
+}
+
+.btn-more {
+    text-align: left!important;
+    font-size: 14px;
+    color: #ffd900;
+    font-size: 12px!important;
+}
+
+.btn-more:hover {
+    color: #e9c600;
+}
+
+.rl .btn {
+    padding-left: 0px!important;
+    margin-left: 0px!important;
+    margin-top: 0px!important;
+}
+.rl {
+    box-shadow: 0px 3px 12px -2px rgb(209, 209, 209);
+    border-radius: 12px;
+}
+
+.rl-content {
     
+    background-color: #fff;
+    padding: 20px;
+}
+
+.rl img {
+    max-width: 100%;
+    border-radius: 12px 12px 0px 0px;
+}
+
+.biz {
+    max-width: 60%;
+    text-align: left;
+    margin: auto;
+    float: right;
+}
+
+.biz h2 {
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.biz .fa {
+    color: #ffd900;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.biz h3 {
+    font-size: 24px;
+}
+
+.biz p {
+    font-size: 13px;
+    max-width: 80%;
+}
+
+.btn-1 {
+    background-color: #ffd900;
+    border: 1px solid #ffd900;
+    border-radius: 25px;
+    padding: 10px 20px!important;
+}
+
+.bk-img {
+    background-image: url("../img/bk-img.png");
 }
