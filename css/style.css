@@ -20,6 +20,11 @@
     padding-right: 12px!important;
 }
 
+.navbar-nav .dropdown-item {
+    font-size: 12px!important;
+    color: #343434!important;
+}
+
 .bk-grey {
     background-image: url("../img/banner.jpg");
     background-repeat: no-repeat;
@@ -276,3 +281,46 @@
     padding-bottom: 20px;
 }
 
+.team-bt h2 {
+    font-size: 18px;
+    color: #fff;
+}
+
+.team-bt p {
+    font-size: 14px;
+    color: #fff;
+}
+
+.team {
+    text-align: center;
+}
+
+.team-bt {
+    background-color: #4e1d8f;
+    color: #fff;
+    padding-top: 12px;
+    padding-bottom: 7px;
+    margin-bottom: 6px;
+}
+
+.team-bt-1 {
+    background-color: #81c0b2;
+    color: #fff;
+    padding-top: 12px;
+    padding-bottom: 7px;
+    margin-bottom: 6px;
+}
+
+.team img {
+    max-width: 100%;
+}
+
+.team-img img {
+    max-width: 100%;
+}
+
+.bk7-1 h2 {
+    font-size: 16px;
+    padding-top: 30px;
+    text-align: center;
+}
