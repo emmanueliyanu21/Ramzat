@@ -365,11 +365,23 @@
     display: block!important;
     background-color: #ffd900;
     color: #000;
+    margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 .cont-header h2 {
     text-align: center;
     font-size: 28px!important;
     padding-bottom: 30px;
-    padding-top: 20px;
+    padding-top: 30px;
+    color: #fff;
+}
+
+.bk-office {
+    background-image: url("../img/image.jpg");
+}
+
+.pad-txt-1 {
+    padding-top: 25px!important;
+    padding-bottom: 25px!important;
 }
