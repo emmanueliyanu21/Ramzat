@@ -355,3 +355,21 @@
     color: #fff;
     border-radius: 3px;
 }
+
+.pad-txt {
+    max-width: 60%;
+    margin: auto;
+}
+
+.btn-submit {
+    display: block!important;
+    background-color: #ffd900;
+    color: #000;
+}
+
+.cont-header h2 {
+    text-align: center;
+    font-size: 28px!important;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
